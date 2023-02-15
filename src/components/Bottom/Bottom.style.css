@@ -1,0 +1,25 @@
+.bottom {
+				text-align: center;
+				padding: 15px;
+			}
+			.bottom .btn2 {
+				padding: 15px 25px;
+				text-align: center;
+				color: rgb(92, 20, 236);
+				font-weight: bold;
+				background-color: white;
+				border-radius: 5px;
+				border-color: grey;
+			}
+			.footer {
+				display: flex;
+				flex-wrap: wrap;
+				padding-left: 100px;
+				padding-right: 100px;
+				justify-content: center;
+			}
+			.footer img {
+				height: 40px;
+				width: 80px;
+				padding: 10px 50px;
+			}

@@ -1,0 +1,25 @@
+.cards {
+				display: flex;
+				text-align: left;
+				padding: 75px 75px 15px 75px;
+			}
+			.hero {
+				height: 300px;
+				width: 300px;
+				margin: auto;
+			}
+			.info {
+				padding-right: 50px;
+			}
+			.btn {
+				background-color: rgb(92, 20, 236);
+				color: white;
+				padding: 10px 15px;
+				border: none;
+				margin: 15px 0;
+				border-radius: 5px;
+			}
+			.info h1 {
+				font-size: 50px;
+				padding-right: 30px;
+			}
